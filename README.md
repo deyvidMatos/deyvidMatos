@@ -13,7 +13,7 @@
 
 ---
 
-<div aling = "left">
+<!-- <div aling = "left">
  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidMatos&show_icons=true&theme=bear&count_private=true"/>
  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=deyvidMatos&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</dic>
+</dic> -->
