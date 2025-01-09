@@ -4,7 +4,6 @@
 
 <h2>Oi 👋, Sou Deyvid Matos Um Cientista de Dados em Formação</h2>
 
-### 👨‍💻 De uma olhada nos meus projetos [https://deyvidmatos.github.io/landing-page/](https://deyvidmatos.github.io/landing-page/)
 
 <h3 align="left">Minhas Redes Sociais</h3>
 <p align="left">
